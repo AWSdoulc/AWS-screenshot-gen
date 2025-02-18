@@ -19,6 +19,6 @@ variable "instance_type" {
 variable "key_name" {
   description = "SSH Key Name"
   type        = string
-  default     = "ScreenshotGeneratorKey"  # Ersetze mit deinem tatsächlichen Key
+  default     = "ScreenshotGeneratorKey" 
 }
 
