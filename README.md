@@ -1,4 +1,4 @@
-#AWS Screenshot Generator
+#AWS Screenshot Generator<b>
 Kurzbeschreibung: Nimmt einen Screenshot einer Webseite nach Eingabe einer Url und gibt den Link zum Screenshot in einem S3 Bucket zurück.
 
 + Files zum Erstellen der Infrastruktur (EC2, S3 Bucket) mittels Terraform
