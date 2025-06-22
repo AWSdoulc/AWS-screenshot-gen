@@ -7,7 +7,7 @@ variable "aws_region" {
 variable "ami_id" {
   description = "Amazon Linux 2 AMI ID"
   type        = string
-  default     = "ami-053a45fff0a704a47"  # Aktualisieren für deine Region
+  default     = "ami-053a45fff0a704a47"  
 }
 
 variable "instance_type" {
