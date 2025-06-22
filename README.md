@@ -1,7 +1,7 @@
-#AWS Screenshot Generator <br>
+# AWS Screenshot Generator <br>
 
-Kurzbeschreibung: Nimmt einen Screenshot einer Webseite nach Eingabe einer Url und gibt den Link zum Screenshot in einem S3 Bucket zurück. <br>
+Description: Takes a screenshot of a website after entering a URL and returns the link to the screenshot in an S3 bucket. <br>
 
-+ Files zum Erstellen der Infrastruktur (EC2, S3 Bucket) mittels Terraform
-+ Security Groups für Zugriff auf die API mittels Terraform
-+ Python Code zum Erstellen, Hochladen in den S3 Bucket und Rückgabe der Url zum gespeicherten Screenshot
++ Files for creating the infrastructure (EC2, S3 bucket) using Terraform
++ Security groups for accessing the API using Terraform
++ Python code for creating, uploading to the S3 bucket, and returning the URL to the saved screenshot
